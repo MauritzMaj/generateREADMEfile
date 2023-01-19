@@ -114,33 +114,33 @@ const generateREADME =
 * [Questions](#questions)
 
 
-## <a {name="description"></a>Description
+## <a name="description"></a>Description
 
 ${Description}
 
-## <a {name="installation"></a>Installation
+## <a name="installation"></a>Installation
 
 ${Installation}
 
-## <a {name="usage"></a>Usage
+## <a name="usage"></a>Usage
 
 ${Usage}
 
 
-## <a {name="contributing"></a>Contributing
+## <a name="contributing"></a>Contributing
 
 ${Contributing}
 
 
-## <a {name="tests"></a>Tests
+## <a name="tests"></a>Tests
 
 ${Tests}
 
-## <a {name="license"></a>License 
+## <a name="license"></a>License 
 
 ${Renderlicenseinfo(License)}
 
-## <a {name="questions"></a>Questions
+## <a name="questions"></a>Questions
 
 Created by user: ${Username}
 
