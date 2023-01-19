@@ -1,46 +1,31 @@
 
-# l 
+# Generate README file 
 
 ## table of contents
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [License](#license)
-* [Questions](#questions)
 
 
 ## <a name="description"></a>Description
 
-l
+This assignment is designed to be able to generate a README file and automatically fill it in with a user's input through inquirer.
 
 ## <a name="installation"></a>Installation
 
-l
+In order to use this product, a user must have installed both node and inquirer 8.2.4 on there device. 
 
 ## <a name="usage"></a>Usage
 
-l
+The user can generate a README file by answering several Inquirer prompts. These answers will then be autopopulated into a README file.
 
-
-## <a name="contributing"></a>Contributing
-
-l
-
-
-## <a name="tests"></a>Tests
-
-l
 
 ## <a name="license"></a>License 
 
-This application is covered under the None.
+This application does not have a license.
 
 ## <a name="questions"></a>Questions
 
-Created by user: ll
+Created by user: MauritzMaj
 
-https://github.com/ll
-
-lll
+https://github.com/MauritzMaj/generateREADMEfile
