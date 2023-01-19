@@ -59,11 +59,11 @@ const badges = [
 
 function Renderlicensebadge()  {
     for (i =0; i<badges.length, i++;) {
-        if (License =badges[i].name)
+        if (License =badges[i].name) {
 
         return badges[i].link;
      
-        else {return ''};
+    } else {return ''};
 
     
     }};  
@@ -72,11 +72,11 @@ function Renderlicenseinfo() {
 
 for (i =0; i<badges.length, i++;) {
 
-    if (License =badges[i].name)
+    if (License =badges[i].name) {
 
     return "This project is covered under the" + License;
  
-    else { return 'This project has no license';}
+    } else { return 'This project has no license';}
 
 }};
 
