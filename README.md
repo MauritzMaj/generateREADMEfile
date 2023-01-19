@@ -29,3 +29,7 @@ This application does not have a license.
 Created by user: MauritzMaj
 
 https://github.com/MauritzMaj/generateREADMEfile
+
+link to video tutorial: https://drive.google.com/file/d/1AYFtmZkz7aIu_Ur4TAOnDyeDf0p7-FKi/view
+screenshot of application
+<img width="791" alt="image" src="https://user-images.githubusercontent.com/105758175/213487105-aa328530-24db-4ccd-a3a9-174359c2689b.png">
