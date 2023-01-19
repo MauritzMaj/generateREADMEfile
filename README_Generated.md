@@ -12,33 +12,33 @@
 * [Questions](#questions)
 
 
-## <a {name="description"></a>Description
+## <a name="description"></a> Description
 
 Short Description
 
-## <a {name="installation"></a>Installation
+## <a name="installation"></a> Installation
 
 No installation required
 
-## <a {name="usage"></a>Usage
+## <a name="usage"></a> Usage
 
 Use appropriately
 
 
-## <a {name="contributing"></a>Contributing
+## <a name="contributing"></a> Contributing
 
 Contribute as you see fit
 
 
-## <a {name="tests"></a>Tests
+## <a name="tests"></a> Tests
 
 N/A
 
-## <a {name="license"></a>License 
+## <a name="license"></a> License 
 
 This project is covered under the following license: MIT License
 
-## <a {name="questions"></a>Questions
+## <a name="questions"></a> Questions
 
 Created by user: MauritzMaj
 
