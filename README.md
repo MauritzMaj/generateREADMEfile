@@ -32,6 +32,7 @@ https://github.com/MauritzMaj/generateREADMEfile
 
 link to video tutorial:https://drive.google.com/file/d/1msuF09P--54Iw9lLfKJw9ReKXP8RpMFq/view
 
-screenshot of application
+screenshot of application:
+
 <img width="774" alt="image" src="https://user-images.githubusercontent.com/105758175/213490742-7c3e9349-fb52-4c6d-a932-f22222700751.png">
 
